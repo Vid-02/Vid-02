@@ -147,19 +147,29 @@ I work on backend services that operate reliably under **scale, concurrency, and
 ## ▸ Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/vidhi-babariya-1b7210210">
-    <img src="https://img.shields.io/badge/LinkedIn-vidhi--babariya-blue?style=flat-square&logo=linkedin"/>
-  </a>
-  <a href="mailto:vbabariy@stevens.edu">
-    <img src="https://img.shields.io/badge/Email-vbabariy@stevens.edu-red?style=flat-square&logo=gmail"/>
-  </a>
-  <a href="mailto:vidhi.babariya002@gmail.com">
-    <img src="https://img.shields.io/badge/Alt%20Email-vidhi.babariya002@gmail.com-red?style=flat-square&logo=gmail"/>
-  </a>
-  <a href="https://github.com/Vid-02">
-    <img src="https://img.shields.io/badge/GitHub-Vid--02-black?style=flat-square&logo=github"/>
+  <a href="https://www.linkedin.com/in/vidhi-babariya-1b7210210" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/LinkedIn%20Profile-Vidhi%20Babariya-0A66C2?style=flat&labelColor=111111"/>
   </a>
 </p>
+
+<p align="center">
+  <a href="mailto:vbabariy@stevens.edu" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Primary%20Email-vbabariy@stevens.edu-8B0000?style=flat&labelColor=111111"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="mailto:vidhi.babariya002@gmail.com" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Secondary%20Email-vidhi.babariya002@gmail.com-6A0DAD?style=flat&labelColor=111111"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Vid-02" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/GitHub-Vid--02-2F4F4F?style=flat&labelColor=111111"/>
+  </a>
+</p>
+
 
 ---
 
