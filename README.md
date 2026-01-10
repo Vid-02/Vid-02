@@ -148,16 +148,16 @@ I work on backend services that operate reliably under **scale, concurrency, and
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vidhi-babariya-1b7210210">
-    <img src="https://img.shields.io/badge/LinkedIn-Vidhi%20Babariya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-vidhi--babariya-blue?style=flat-square&logo=linkedin"/>
   </a>
   <a href="mailto:vbabariy@stevens.edu">
-    <img src="https://img.shields.io/badge/Primary%20Email-vbabariy%40stevens.edu-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-vbabariy@stevens.edu-red?style=flat-square&logo=gmail"/>
   </a>
   <a href="mailto:vidhi.babariya002@gmail.com">
-    <img src="https://img.shields.io/badge/Secondary%20Email-vidhi.babariya002%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Alt%20Email-vidhi.babariya002@gmail.com-red?style=flat-square&logo=gmail"/>
   </a>
   <a href="https://github.com/Vid-02">
-    <img src="https://img.shields.io/badge/GitHub-Vid--02-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-Vid--02-black?style=flat-square&logo=github"/>
   </a>
 </p>
 
