@@ -180,6 +180,3 @@ I work on backend services that operate reliably under **scale, concurrency, and
 </div>
 
 
----
-
-<h3 align="center"><em>“Systems earn trust not by intention, but by behavior under stress.”</em></h3>
