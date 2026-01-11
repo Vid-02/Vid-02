@@ -17,19 +17,6 @@
 
 ---
 
-<!-- ======================= SNAPSHOT STRIP ======================= -->
-
-<table align="center">
-<tr>
-<td align="center"><strong>Focus</strong><br/>Backend Systems</td>
-<td align="center"><strong>Strength</strong><br/>Reliability & Scale</td>
-<td align="center"><strong>Domains</strong><br/>Distributed · Data · AI</td>
-<td align="center"><strong>Approach</strong><br/>Correctness First</td>
-</tr>
-</table>
-
----
-
 <!-- ======================= ABOUT (NARRATIVE BLOCK) ======================= -->
 
 ### ▸ Engineering Snapshot
