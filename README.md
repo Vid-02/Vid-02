@@ -4,7 +4,7 @@
 
 <p align="center">
   <strong>Software Engineer - Backend, Distributed Systems & ML Infrastructure</strong><br/>
-  MS in Computer Science · Stevens Institute of Technology
+  MS in Computer Science, Stevens Institute of Technology
 </p>
 
 <p align="center">
@@ -21,9 +21,9 @@
 
 ## About Me
 
-I am a backend-focused Software Engineer specializing in **distributed systems and production-grade services** that operate reliably under **scale, concurrency, and failure**. My work focuses on building **fault-tolerant execution platforms, data-intensive pipelines, and low-latency backend services**, with an emphasis on **correctness, observability, and predictable system behavior** across **ETL pipelines, enterprise integrations, distributed schedulers, and event-driven architectures**.
+I am a backend focused Software Engineer specializing in **distributed systems and production-grade services** that operate reliably under **scale, concurrency, and failure**. My work focuses on building **fault-tolerant execution platforms, data-intensive pipelines, and low latency backend services**, with an emphasis on **correctness, observability, and predictable system behavior** across **ETL pipelines, enterprise integrations, distributed schedulers, and event driven architectures**.
 
-I approach AI and machine learning from an **engineering-first perspective**, treating models as software components that must be **deployed, monitored, validated, and safely evolved in production**. I am particularly interested in **ML inference systems, failure analysis, and system-level validation**, and I prioritize **clear system design, disciplined trade-off reasoning, and ownership of production outcomes**.
+I approach AI and machine learning from an **engineering-first perspective**, treating models as software components that must be **deployed, monitored, validated, and safely evolved in production**. I am particularly interested in **ML inference systems, failure analysis, and system level validation**, and I prioritize **clear system design, disciplined trade-off reasoning, and ownership of production outcomes**.
 
 
 ---
@@ -33,7 +33,7 @@ I approach AI and machine learning from an **engineering-first perspective**, tr
 ## Current Focus Areas
 
 - **Distributed job scheduling & orchestration systems**  
-- **Feature flag & dynamic configuration platforms** (low-latency, HA)  
+- **Feature flag & dynamic configuration platforms** (low latency, HA)  
 - **ML inference pipelines with monitoring, rollback & validation hooks**  
 - **Failure analysis for multi-step AI reasoning & production workflows**
 
@@ -47,42 +47,42 @@ I approach AI and machine learning from an **engineering-first perspective**, tr
 <tr>
 <td><strong>Languages</strong></td>
 <td>
-Java · Python · SQL · Bash · JavaScript · TypeScript · C++ · Go
+Java, Python, SQL, Bash, JavaScript, TypeScript, C++, Go
 </td>
 </tr>
 
 <tr>
 <td><strong>Backend & APIs</strong></td>
 <td>
-Spring Boot · Node.js · Express · REST · gRPC · OpenAPI (Swagger)
+Spring Boot, Node.js, Express, REST, gRPC, OpenAPI (Swagger)
 </td>
 </tr>
 
 <tr>
 <td><strong>Data & Streaming</strong></td>
 <td>
-PostgreSQL · MySQL · Apache Cassandra · Redis · MongoDB · Apache Kafka · Amazon SNS · Amazon SQS
+PostgreSQL, MySQL, Apache Cassandra, Redis, MongoDB, Apache Kafka, Amazon SNS, Amazon SQS
 </td>
 </tr>
 
 <tr>
 <td><strong>ML & Data Tooling</strong></td>
 <td>
-scikit-learn · pandas · NumPy · Jupyter · FastAPI · Flask
+scikit-learn, pandas, NumPy, Jupyter, FastAPI, Flask
 </td>
 </tr>
 
 <tr>
 <td><strong>Cloud & Infra</strong></td>
 <td>
-AWS (EC2, Lambda, SNS, SQS, CloudFormation) · Docker · GitHub Actions · Jenkins
+AWS (EC2, Lambda, SNS, SQS, CloudFormation), Docker, GitHub Actions, Jenkins
 </td>
 </tr>
 
 <tr>
 <td><strong>Testing & Tooling</strong></td>
 <td>
-JUnit · Mockito · pytest · Git · Linux · Maven · Gradle
+JUnit, Mockito, pytest, Git, Linux, Maven, Gradle
 </td>
 </tr>
 </table>
@@ -94,24 +94,24 @@ JUnit · Mockito · pytest · Git · Linux · Maven · Gradle
 ## Professional Experience
 
 **Handshake AI - Computer Science Fellow**  
-*Sep 2025 – Nov 2025*  
+*Sep 2025 - Nov 2025*  
 - Designed **formal logic benchmarking workflows** for multi-step AI reasoning systems  
 - Analyzed failure modes across **500+ inference samples**, improving evaluation efficiency by ~15%  
 - Focused on **systematic validation, error categorization, and reproducibility**
 
 **NielsenIQ - Data Engineering Intern**  
-*Feb 2024 – Jul 2024*  
+*Feb 2024 - Jul 2024*  
 - Optimized **production ETL pipelines**, reducing end-to-end runtime by ~13%  
-- Built automated **schema & data-quality validation**, blocking ~99% malformed records  
+- Built automated **schema & data quality validation**, blocking ~99% malformed records  
 - Worked on **batch processing, pipeline observability, and failure handling**
 
 **Evozard - Software Engineering Intern**  
-*Nov 2023 – Feb 2024*  
+*Nov 2023 - Feb 2024*  
 - Built **ERP/CRM synchronization services** orchestrating 6+ enterprise workflows  
 - Implemented **fault-tolerant ingestion pipelines** with strong consistency guarantees (~98% data integrity)
 
 **AUM Imagineering - Software Engineering Intern**  
-*Aug 2022 – Apr 2023*  
+*Aug 2022 - Apr 2023*  
 - Designed **modular ERP state architecture** across 10+ core modules  
 - Reduced UI latency by ~30% through rendering & backend optimization
 
@@ -122,15 +122,15 @@ JUnit · Mockito · pytest · Git · Linux · Maven · Gradle
 ## Selected Systems Projects
 
 ### **TaskFlow - Distributed Job Scheduling Platform**
-*Java · Spring Boot · PostgreSQL · Redis · Docker*  
+*Java, Spring Boot, PostgreSQL, Redis, Docker*  
 - Fault-tolerant scheduler sustaining **5k+ queued jobs** with persistent state  
 - Achieved **2× throughput** via Redis-based distributed leasing & atomic locking  
 - Designed retry semantics, idempotent execution, and failure recovery paths
 
 ### **FlagGate - Feature Flag & Configuration Platform**
-*Java · Spring Boot · Apache Cassandra · Apache Kafka · Docker*  
-- **Sub-20ms P99 latency** using tunable consistency & hot-path caching  
-- **99.9% configuration sync reliability** via event-driven propagation  
+*Java, Spring Boot, Apache Cassandra, Apache Kafka, Docker*  
+- **Sub-20ms P99 latency** using tunable consistency & hot path caching  
+- **99.9% configuration sync reliability** via event driven propagation  
 - Built for safe rollout, rollback, and multi-region consistency tradeoffs
 
 ---
@@ -139,11 +139,11 @@ JUnit · Mockito · pytest · Git · Linux · Maven · Gradle
 
 ## Leadership & Mentorship
 
-**University Technical Club Lead** — Increased event participation by **40%** and reduced finance/coordination errors by **25%** through structured planning and execution.
+**University Technical Club Lead** - Increased event participation by **40%** and reduced finance/coordination errors by **25%** through structured planning and execution.
 
-**SSIP National Hackathon Organizer** — Co-led end-to-end organization of a national hackathon, achieving **98% participant satisfaction** across logistics and technical operations.
+**SSIP National Hackathon Organizer** - Co-led end-to-end organization of a national hackathon, achieving **98% participant satisfaction** across logistics and technical operations.
 
-**System Design Mentor (Graduate Level)** — Mentored peers in **backend system design**, covering APIs, data modeling, scalability, and failure-mode trade-offs through real-world design walkthroughs.
+**System Design Mentor** - Mentored peers in **backend system design**, covering APIs, data modeling, scalability, and failure mode trade-offs through real world design walkthroughs.
 
 ---
 
@@ -151,11 +151,12 @@ JUnit · Mockito · pytest · Git · Linux · Maven · Gradle
 
 ## Beyond Engineering
 
-- **Visual Artist** - Sketching, painting, mixed media  
-- **Yoga Practitioner** - discipline & consistency  
-- **Reader** - Non-fiction, finance, Systems thinking, Spiritual scriptures  
-- **Cars** - Premium Cars research
-
+- 🎨 **Visual Artist** - Sketching, painting, mixed media  
+- 🧘‍♀️ **Yoga Practitioner**  
+- 📚 **Reader** - Non-fiction, finance, systems thinking, spiritual scriptures  
+- 🏐 **Tournament-Level Sports** - Volleyball, Table Tennis  
+- 🎱 **Competitive Player** - Badminton and Pocket Billiards
+  
 ---
 
 <!-- ======================= CONNECT ======================= -->
