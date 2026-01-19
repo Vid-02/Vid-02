@@ -3,7 +3,7 @@
 <h1 align="center">Vidhi Babariya</h1>
 
 <p align="center">
-  <strong>Software Engineer - Backend, Distributed Systems & ML Infrastructure</strong><br/>
+  <strong>Software Engineer - Backend, Distributed Systems & AI/ML Infrastructure</strong><br/>
   MS in Computer Science, Stevens Institute of Technology
 </p>
 
