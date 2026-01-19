@@ -1,10 +1,10 @@
-<!-- ======================= HERO SECTION ======================= -->
+<!-- ======================= HERO ======================= -->
 
 <h1 align="center">Vidhi Babariya</h1>
 
 <p align="center">
-  <strong>Software Engineer · Backend & Distributed Systems</strong><br/>
-  MS in Computer Science @ Stevens Institute of Technology
+  <strong>Software Engineer - Backend, Distributed Systems & ML Infrastructure</strong><br/>
+  MS in Computer Science · Stevens Institute of Technology
 </p>
 
 <p align="center">
@@ -17,153 +17,171 @@
 
 ---
 
-<!-- ======================= ABOUT (NARRATIVE BLOCK) ======================= -->
+<!-- ======================= SNAPSHOT ======================= -->
 
-### ▸ Engineering Snapshot
+## About Me
 
-I am a Software Engineer focused on building **scalable, fault-tolerant backend systems** with strong foundations in **data integrity, distributed execution, and correctness-first design**.
+I am a backend-focused Software Engineer specializing in **distributed systems and production-grade services** that operate reliably under **scale, concurrency, and failure**. My work focuses on building **fault-tolerant execution platforms, data-intensive pipelines, and low-latency backend services**, with an emphasis on **correctness, observability, and predictable system behavior** across **ETL pipelines, enterprise integrations, distributed schedulers, and event-driven architectures**.
 
-My experience spans **production ETL pipelines, ERP/CRM integration platforms, and distributed scheduling systems**.  
-I work on backend services that operate reliably under **scale, concurrency, and failure**, with emphasis on **observability, validation, and predictable system behavior**.
+I approach AI and machine learning from an **engineering-first perspective**, treating models as software components that must be **deployed, monitored, validated, and safely evolved in production**. I am particularly interested in **ML inference systems, failure analysis, and system-level validation**, and I prioritize **clear system design, disciplined trade-off reasoning, and ownership of production outcomes**.
 
----
-
-<!-- ======================= CURRENT WORK (CARD STYLE) ======================= -->
-
-### ▸ Currently Working On
-
-- **Distributed job scheduling platforms** with fault-tolerant execution and persistent state management  
-- **Feature flag & configuration systems** optimized for low-latency, high-availability environments  
-- **Formal validation & failure analysis workflows** for multi-step AI reasoning systems  
 
 ---
 
-<!-- ======================= TECH STACK (COMPACT GRID) ======================= -->
+<!-- ======================= CURRENT FOCUS ======================= -->
 
-### ▸ Technical Stack
+## Current Focus Areas
+
+- **Distributed job scheduling & orchestration systems**  
+- **Feature flag & dynamic configuration platforms** (low-latency, HA)  
+- **ML inference pipelines with monitoring, rollback & validation hooks**  
+- **Failure analysis for multi-step AI reasoning & production workflows**
+
+---
+
+<!-- ======================= TECH STACK ======================= -->
+
+## Technical Stack (Production-Oriented)
 
 <table>
 <tr>
 <td><strong>Languages</strong></td>
-<td>Java · Python · JavaScript · TypeScript · SQL · Bash</td>
+<td>
+Java · Python · SQL · Bash · JavaScript · TypeScript · C++ · Go
+</td>
 </tr>
+
 <tr>
-<td><strong>Frameworks</strong></td>
-<td>Spring Boot · Node.js · React · Express · JUnit · Mockito</td>
+<td><strong>Backend & APIs</strong></td>
+<td>
+Spring Boot · Node.js · Express · REST · gRPC · OpenAPI (Swagger)
+</td>
 </tr>
+
 <tr>
 <td><strong>Data & Streaming</strong></td>
-<td>PostgreSQL · Apache Cassandra · Redis · Apache Kafka</td>
+<td>
+PostgreSQL · MySQL · Apache Cassandra · Redis · MongoDB · Apache Kafka · Amazon SNS · Amazon SQS
+</td>
 </tr>
+
 <tr>
-<td><strong>Cloud & DevOps</strong></td>
-<td>AWS (SNS, EC2, Lambda, CloudFormation) · GCP · Docker · CI/CD (Jenkins)</td>
+<td><strong>ML & Data Tooling</strong></td>
+<td>
+scikit-learn · pandas · NumPy · Jupyter · FastAPI · Flask
+</td>
 </tr>
+
 <tr>
-<td><strong>Tools</strong></td>
-<td>Git · GitHub · Linux · Maven</td>
+<td><strong>Cloud & Infra</strong></td>
+<td>
+AWS (EC2, Lambda, SNS, SQS, CloudFormation) · Docker · GitHub Actions · Jenkins
+</td>
+</tr>
+
+<tr>
+<td><strong>Testing & Tooling</strong></td>
+<td>
+JUnit · Mockito · pytest · Git · Linux · Maven · Gradle
+</td>
 </tr>
 </table>
 
 ---
 
-<!-- ======================= EXPERIENCE (TIMELINE STYLE) ======================= -->
+<!-- ======================= EXPERIENCE ======================= -->
 
-### ▸ Professional Timeline
+## Professional Experience
 
-**Handshake AI — Computer Science Fellow**  
-*San Francisco, CA · Sep 2025 – Nov 2025*  
-- Formal logic benchmarking suite for multi-step AI reasoning (20+ validation workflows)  
-- Failure analysis across 500+ inference samples, improving review efficiency by ~15%  
+**Handshake AI - Computer Science Fellow**  
+*Sep 2025 – Nov 2025*  
+- Designed **formal logic benchmarking workflows** for multi-step AI reasoning systems  
+- Analyzed failure modes across **500+ inference samples**, improving evaluation efficiency by ~15%  
+- Focused on **systematic validation, error categorization, and reproducibility**
 
-**NielsenIQ — Data Engineering Intern**  
-*Gujarat, India · Feb 2024 – Jul 2024*  
-- ETL pipeline optimization reducing end-to-end runtime by ~13%  
-- Automated data validation blocking 99% malformed records  
+**NielsenIQ - Data Engineering Intern**  
+*Feb 2024 – Jul 2024*  
+- Optimized **production ETL pipelines**, reducing end-to-end runtime by ~13%  
+- Built automated **schema & data-quality validation**, blocking ~99% malformed records  
+- Worked on **batch processing, pipeline observability, and failure handling**
 
-**Evozard — Software Engineering Intern**  
-*Gujarat, India · Aug 2023 – Feb 2024*  
-- ERP/CRM synchronization engine orchestrating 6+ enterprise workflows  
-- Fault-tolerant ingestion pipelines ensuring 98% data integrity  
+**Evozard - Software Engineering Intern**  
+*Nov 2023 – Feb 2024*  
+- Built **ERP/CRM synchronization services** orchestrating 6+ enterprise workflows  
+- Implemented **fault-tolerant ingestion pipelines** with strong consistency guarantees (~98% data integrity)
 
-**AUM Imagineering — Software Engineering Intern**  
-*Gujarat, India · Aug 2022 – Apr 2023*  
-- Modular ERP state architecture across 10+ core modules  
-- Rendering engine optimization reducing page load latency by 30%  
+**AUM Imagineering - Software Engineering Intern**  
+*Aug 2022 – Apr 2023*  
+- Designed **modular ERP state architecture** across 10+ core modules  
+- Reduced UI latency by ~30% through rendering & backend optimization
 
 ---
 
-<!-- ======================= PROJECTS (ENGINEERING BRIEFS) ======================= -->
+<!-- ======================= PROJECTS ======================= -->
 
-### ▸ Selected Systems Projects
+## Selected Systems Projects
 
-**TaskFlow — Distributed Job Scheduling Platform**  
+### **TaskFlow - Distributed Job Scheduling Platform**
 *Java · Spring Boot · PostgreSQL · Redis · Docker*  
-- Fault-tolerant execution engine sustaining 5k+ queued jobs  
-- 2× throughput via Redis-based distributed task leasing and atomic locking  
+- Fault-tolerant scheduler sustaining **5k+ queued jobs** with persistent state  
+- Achieved **2× throughput** via Redis-based distributed leasing & atomic locking  
+- Designed retry semantics, idempotent execution, and failure recovery paths
 
-**FlagGate — Feature Flag & Configuration Platform**  
+### **FlagGate - Feature Flag & Configuration Platform**
 *Java · Spring Boot · Apache Cassandra · Apache Kafka · Docker*  
-- Sub-20ms P99 latency using tunable consistency and hot-path caching  
-- 99.9% synchronization reliability via event-driven propagation  
+- **Sub-20ms P99 latency** using tunable consistency & hot-path caching  
+- **99.9% configuration sync reliability** via event-driven propagation  
+- Built for safe rollout, rollback, and multi-region consistency tradeoffs
 
 ---
 
 <!-- ======================= LEADERSHIP ======================= -->
 
-### ▸ Leadership & Contribution
+## Leadership & Mentorship
 
-- Graduate-level technical contributions focused on backend systems and data reliability  
-- Active mentorship in system design, backend engineering fundamentals, and project structuring  
+**University Technical Club Lead** — Increased event participation by **40%** and reduced finance/coordination errors by **25%** through structured planning and execution.
 
----
+**SSIP National Hackathon Organizer** — Co-led end-to-end organization of a national hackathon, achieving **98% participant satisfaction** across logistics and technical operations.
 
-<!-- ======================= BEYOND ENGINEERING (UNIQUE PRESENTATION) ======================= -->
-
-### ▸ Beyond Engineering
-
-- 🎨 **Exceptional Artist** — Sketching, Painting, Art & Craft  
-- 🧘‍♀️ **Yoga Practitioner** with disciplined fitness routine  
-- 📚 **Reader** — Non-Fiction & Finance  
-- 🔬 **Research Interests** — AI/ML & Quantitative Finance  
+**System Design Mentor (Graduate Level)** — Mentored peers in **backend system design**, covering APIs, data modeling, scalability, and failure-mode trade-offs through real-world design walkthroughs.
 
 ---
 
-<!-- ======================= CONNECT (MINIMAL, CLEAN) ======================= -->
+<!-- ======================= BEYOND ======================= -->
 
-## ▸ Connect
+## Beyond Engineering
+
+- **Visual Artist** - Sketching, painting, mixed media  
+- **Yoga Practitioner** - discipline & consistency  
+- **Reader** - Non-fiction, finance, Systems thinking, Spiritual scriptures  
+- **Cars** - Premium Cars research
+
+---
+
+<!-- ======================= CONNECT ======================= -->
+
+## Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/vidhi-babariya-1b7210210" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/LinkedIn%20Profile-Vidhi%20Babariya-0A66C2?style=flat&labelColor=111111"/>
+  <a href="https://www.linkedin.com/in/vidhi-babariya-1b7210210">
+    <img src="https://img.shields.io/badge/LinkedIn-Vidhi%20Babariya-0A66C2?style=flat&labelColor=111111"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="mailto:vbabariy@stevens.edu" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Primary%20Email-vbabariy@stevens.edu-8B0000?style=flat&labelColor=111111"/>
+  <a href="mailto:vbabariy@stevens.edu">
+    <img src="https://img.shields.io/badge/Email-vbabariy@stevens.edu-8B0000?style=flat&labelColor=111111"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="mailto:vidhi.babariya002@gmail.com" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Secondary%20Email-vidhi.babariya002@gmail.com-6A0DAD?style=flat&labelColor=111111"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Vid-02" style="text-decoration:none;">
+  <a href="https://github.com/Vid-02">
     <img src="https://img.shields.io/badge/GitHub-Vid--02-2F4F4F?style=flat&labelColor=111111"/>
   </a>
 </p>
 
-
 ---
-
-<!-- ======================= LIVE ELEMENT ======================= -->
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 </div>
-
-
