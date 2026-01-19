@@ -161,25 +161,38 @@ JUnit, Mockito, pytest, Git, Linux, Maven, Gradle
 
 <!-- ======================= CONNECT ======================= -->
 
-## Connect
+## ▸ Reach Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/vidhi-babariya-1b7210210">
+  <a href="https://www.linkedin.com/in/vidhi-babariya-1b7210210" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/LinkedIn-Vidhi%20Babariya-0A66C2?style=flat&labelColor=111111"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="mailto:vbabariy@stevens.edu">
-    <img src="https://img.shields.io/badge/Email-vbabariy@stevens.edu-8B0000?style=flat&labelColor=111111"/>
+  <a href="https://vidhibabariya.vercel.app/" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Portfolio-vidhibabariya.vercel.app-2E8B57?style=flat&labelColor=111111"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Vid-02">
+  <a href="mailto:vidhi.babariya002@gmail.com" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Primary%20Email-vidhi.babariya002@gmail.com-6A0DAD?style=flat&labelColor=111111"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="mailto:vbabariy@stevens.edu" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/University%20Email-vbabariy@stevens.edu-8B0000?style=flat&labelColor=111111"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Vid-02" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/GitHub-Vid--02-2F4F4F?style=flat&labelColor=111111"/>
   </a>
 </p>
+
 
 ---
 
