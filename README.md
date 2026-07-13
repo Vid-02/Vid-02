@@ -3,7 +3,7 @@
 <h1 align="center">Vidhi Babariya</h1>
 
 <p align="center">
-  <strong>AI/ML Engineer - GenAI, RAG & LLM Systems | Backend & Distributed Systems</strong><br/>
+  <strong>AI/ML Engineer | GenAI, RAG & LLM | Software Engineer | Data Engineer</strong><br/>
   MS in Computer Science, Stevens Institute of Technology
 </p>
 
@@ -23,11 +23,11 @@
 
 Tell me something is not my cup of tea and I will go make it my piece of cake.
 
-I build AI systems and the backend they run on. GenAI, RAG, LLMs, and the distributed plumbing underneath, built end to end and treated like production software: deployed, evaluated, monitored, and evolved without breaking. As an **AI Systems Fellow at Handshake AI**, I red-teamed frontier LLMs and hunted the failures automated checks walk right past.
+I build AI systems and the backend that keeps them standing. GenAI, RAG, LLMs, and the distributed machinery underneath, shipped end to end and treated like real software: deployed, evaluated, watched in production, and improved without breaking what already works. As an **AI Systems Fellow at Handshake AI**, I red-teamed frontier LLMs and went looking for the failures that slip past automated checks.
 
-I am drawn to the hard version of every problem. Easy bores me, and "that might not be for you" is the fastest way to get me to do exactly that. I build, break, fix, and ship, then do it again until it runs clean.
+Give me the messy version of a problem over the clean one any day. I would rather chase correctness under load than polish a demo, so I keep building, breaking, and rebuilding until a system behaves the same way on its worst day as its best.
 
-AI/ML | GenAI | Backend | Data engineering. I want all of it, and I tend to get what I want.
+AI/ML, GenAI, backend, data engineering. I am not picking a lane. I want the whole road.
 
 ---
 
