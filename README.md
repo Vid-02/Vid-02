@@ -35,10 +35,14 @@ AI/ML, GenAI, backend, data engineering. I am not picking a lane. I want the who
 
 ## Current Focus Areas
 
-- **RAG & LLM systems** - retrieval quality, cost-aware routing & evaluation gates  
-- **LLM evaluation & red-teaming** - reasoning, safety & integrity failures  
-- **Distributed job scheduling & feature flag platforms** - low latency, high availability  
-- **ML inference pipelines** - monitoring, rollback & validation hooks
+## Current Focus Areas
+
+- **GenAI & RAG systems** | retrieval quality, cost-aware model routing & grounded answers  
+- **LLM evaluation & red-teaming** | reasoning, safety & integrity failures under adversarial pressure  
+- **Agentic AI** | tool-calling workflows with validation and guardrails  
+- **Backend & distributed systems** | fault-tolerant services, schedulers & event-driven pipelines  
+- **Data engineering** | ETL, streaming & data-quality validation at scale  
+- **ML in production** | inference pipelines with monitoring, rollback & evaluation gates
 
 ---
 
@@ -50,7 +54,7 @@ AI/ML, GenAI, backend, data engineering. I am not picking a lane. I want the who
 <tr>
 <td><strong>AI / ML</strong></td>
 <td>
-LLMs, RAG, LangChain, Vector Databases, PyTorch, scikit-learn, Prompt Engineering, LLM Evaluation (RAGAS)
+LLMs, RAG, LangChain, LangGraph, Vector Databases, PyTorch, scikit-learn, Prompt Engineering, LLM Evaluation (RAGAS, DeepEval)
 </td>
 </tr>
 
